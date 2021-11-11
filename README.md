@@ -1,8 +1,7 @@
 CONTRIBUTION
 
 Fork the project.
-Clone your own forked repository, run git clone "https://github.com/[your_github_username]/zc_app_android.git"
-Add remote upstream using the command git remote add upstream "https://github.com/zurichat/zc_app_android.git"
+Clone your own forked repository, run git clone "https://github.com/[your_github_username]/SideHustle_group_4_mobile_project.git"
 
 run: git fetch upstream - You must fetch from develop before or after checkout
 run: git merge upstream/develop - Merge updates from upstream
